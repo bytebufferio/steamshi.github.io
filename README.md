@@ -16,3 +16,6 @@
 13.待补充 
 
 edit time:2024年11月8日 17:04🈹
+
+自己搭建RSS
+https://veryjack.com/technique/docker-install-freshrss/
